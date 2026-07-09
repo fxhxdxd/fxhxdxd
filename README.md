@@ -252,14 +252,10 @@ Chrome extension that supercharges LeetCode with AI-driven hints, code reviews a
 <table width="100%">
 <tr>
 <td align="center" width="50%">
-<a href="https://leetcode.com/u/fxhxdxd/">
 <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
 </td>
 <td align="center" width="50%">
-<a href="https://codeforces.com/profile/fxhxdxd">
 <img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-</a>
 </td>
 </tr>
 </table>
@@ -270,7 +266,6 @@ Chrome extension that supercharges LeetCode with AI-driven hints, code reviews a
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fxhxdxd&theme=algolia&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api?username=fxhxdxd&show_icons=true&theme=algolia&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub stats" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fxhxdxd&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="98%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxhxdxd&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" alt="Top languages" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fxhxdxd&theme=algolia&utcOffset=5.5" alt="Productive time" width="49%" />
 
