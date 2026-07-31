@@ -9,9 +9,9 @@
 <br />
 
 <a href="mailto:fahadkorba@gmail.com"><img src="https://img.shields.io/badge/Email-fahadkorba%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.practers.com/"><img src="https://img.shields.io/badge/Practers-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Practers" /></a>
+<a href="https://www.practers.com/"><img src="https://img.shields.io/badge/Practers-Live-00D9FF?style=for-the-badge" alt="Practers" /></a>
 <a href="https://www.linkedin.com/in/fahad-khan29/"><img src="https://img.shields.io/badge/LinkedIn-fahad--khan29-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/fxhxdxd"><img src="https://img.shields.io/badge/GitHub-fxhxdxd-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.fahadkhan.website"><img src="https://img.shields.io/badge/Website-fahadkhan.website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 
 </div>
 
@@ -66,6 +66,17 @@ Built a RAG-backed scheduling agent that proposes meeting times, requests agenda
 </tr>
 </table>
 
+## Open Source
+
+**[livekit/agents](https://github.com/livekit/agents)** (11.6k stars) — a framework for building realtime voice AI agents.
+
+Two merged fixes to its provider-fallback layer, both restoring connection prewarm that was being silently dropped:
+
+- **[#6582](https://github.com/livekit/agents/pull/6582)** — the LLM fallback adapter discarded every prewarm the agent session issued, so models behind provider-fallback paid full DNS and TLS setup on the first reply of each session.
+- **[#6583](https://github.com/livekit/agents/pull/6583)** — the same gap on the speech-to-text path, needing fixes in two places since the fallback adapter wraps non-streaming providers in another adapter that also swallowed the call.
+
+Both shipped with regression tests that fail without the fix.
+
 ## More Experience
 
 <table>
@@ -85,11 +96,13 @@ Guided 60+ students through the Operating Systems lab: UNIX shell scripting, pro
 
 ### Upvalue.in | AI/ML Intern
 
-May 2025 to Jul 2025
+May 2025 to Jul 2025 · Python, Flask, Pandas, NumPy, Time Series Analysis, REST APIs
 
-Built a Python automated trading system generating signals from a Mean Reversion strategy over statistical analysis of real-time YFinance market data, backtested across 5 years of history.
+Developed an algorithmic trading signal application in Python using Exponential Moving Average (EMA) indicators to generate automated buy/sell signals for equity markets.
 
-Delivered automated trade decisions for Indian and Malaysian equities across 30+ tickers via an intraday Flask service.
+Backtested and analysed on 1000+ historical stock price records.
+
+Built a modular pipeline for market data processing, signal generation and strategy evaluation.
 
 </td>
 </tr>
