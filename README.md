@@ -244,7 +244,7 @@ Chrome extension that supercharges LeetCode with AI-driven hints, code reviews a
 </td>
 <td align="center" width="270">
 <h3>Codeforces</h3>
-<h2>Pupil</h2>
+<h2>Specialist</h2>
 <p>contest rating badge</p>
 </td>
 <td align="center" width="270">
