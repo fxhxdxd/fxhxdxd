@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | Founder at Practers | AI Systems Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Founder+%40+Practers;Next.js+%7C+React+%7C+Node.js+%7C+Flask;RAG+%7C+AI+Agents+%7C+LLMs+%7C+Multi-Agent+Systems;Google+ADK+%7C+Gemini+%7C+IPFS+%7C+WebRTC;Knight+on+LeetCode+%7C+Pupil+on+Codeforces" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Founder+%40+Practers;Next.js+%7C+React+%7C+Node.js+%7C+Flask;RAG+%7C+AI+Agents+%7C+LLMs+%7C+Multi-Agent+Systems;Google+ADK+%7C+Gemini+%7C+IPFS+%7C+WebRTC;Knight+2013+on+LeetCode+%7C+Specialist+1453+on+Codeforces" alt="Typing animation" />
 
 <br />
 
@@ -26,7 +26,7 @@ const fahad = {
   stack: ["Next.js", "React", "Node.js", "Flask", "PostgreSQL"],
   infra: ["Docker", "Linux/UNIX", "WebSockets", "WebRTC", "IPFS"],
   ai: ["Google ADK", "Gemini", "RAG", "Multi-Agent Systems", "LLMs"],
-  coding: "Knight on LeetCode, Pupil on Codeforces",
+  coding: "Knight (2013) on LeetCode, Specialist (1453) on Codeforces",
   mindset: "Build fast. Debug deeply. Ship clean."
 };
 ```
@@ -239,12 +239,12 @@ Chrome extension that supercharges LeetCode with AI-driven hints, code reviews a
 <tr>
 <td align="center" width="270">
 <h3>LeetCode</h3>
-<h2>Knight</h2>
+<h2>Knight · 2013</h2>
 <p>contest rating badge</p>
 </td>
 <td align="center" width="270">
 <h3>Codeforces</h3>
-<h2>Specialist</h2>
+<h2>Specialist · 1453</h2>
 <p>contest rating badge</p>
 </td>
 <td align="center" width="270">
@@ -265,10 +265,10 @@ Chrome extension that supercharges LeetCode with AI-driven hints, code reviews a
 <table width="100%">
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+<a href="https://leetcode.com/u/mCjaZMHxiP/"><img src="https://img.shields.io/badge/LeetCode-Knight%202013-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile — Knight, rating 2013" /></a>
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+<a href="https://codeforces.com/profile/fxhxdxd"><img src="https://img.shields.io/badge/Codeforces-Specialist%201453-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile — Specialist, rating 1453" /></a>
 </td>
 </tr>
 </table>
@@ -301,4 +301,3 @@ Chrome extension that supercharges LeetCode with AI-driven hints, code reviews a
 <img src="https://komarev.com/ghpvc/?username=fxhxdxd&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
-
