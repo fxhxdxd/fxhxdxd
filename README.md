@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | Founder at Practers | AI Systems Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Founder+%40+Practers;Next.js+%7C+React+%7C+Node.js+%7C+Flask;RAG+%7C+AI+Agents+%7C+LLMs+%7C+Multi-Agent+Systems;Google+ADK+%7C+Gemini+%7C+IPFS+%7C+WebRTC;Knight+2013+on+LeetCode+%7C+Specialist+1453+on+Codeforces" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Founder+%40+Practers;Next.js+%7C+React+%7C+Node.js+%7C+Flask;RAG+%7C+AI+Agents+%7C+LLMs+%7C+Multi-Agent+Systems;Google+ADK+%7C+Gemini+%7C+IPFS+%7C+WebRTC;LeetCode+Knight+2014+%7C+Codeforces+1403+%281490+max%29" alt="Typing animation" />
 
 <br />
 
@@ -12,6 +12,8 @@
 <a href="https://www.practers.com/"><img src="https://img.shields.io/badge/Practers-Live-00D9FF?style=for-the-badge" alt="Practers" /></a>
 <a href="https://www.linkedin.com/in/fahad-khan29/"><img src="https://img.shields.io/badge/LinkedIn-fahad--khan29-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.fahadkhan.website"><img src="https://img.shields.io/badge/Website-fahadkhan.website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://github.com/fxhxdxd"><img src="https://img.shields.io/badge/GitHub-fxhxdxd-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://codolio.com/profile/fxhxdxd"><img src="https://img.shields.io/badge/Codolio-Coding_Profile-6C5CE7?style=for-the-badge&logo=code&logoColor=white" alt="Codolio" /></a>
 
 </div>
 
@@ -26,7 +28,7 @@ const fahad = {
   stack: ["Next.js", "React", "Node.js", "Flask", "PostgreSQL"],
   infra: ["Docker", "Linux/UNIX", "WebSockets", "WebRTC", "IPFS"],
   ai: ["Google ADK", "Gemini", "RAG", "Multi-Agent Systems", "LLMs"],
-  coding: "Knight (2013) on LeetCode, Specialist (1453) on Codeforces",
+  coding: "LeetCode Knight (2014), Codeforces Specialist (1403 current, 1490 max)",
   mindset: "Build fast. Debug deeply. Ship clean."
 };
 ```
@@ -229,6 +231,15 @@ Chrome extension that supercharges LeetCode with AI-driven hints, code reviews a
 
 </td>
 <td width="50%" valign="top">
+
+### [Sadak — Voice-First Language Learning](https://main.d33zh3b90nj4kw.amplifyapp.com/)
+
+Immersive 3D Indian street where learners practise real conversations aloud across ten Indian languages. Players explore city-based scenarios, speak with AI characters and complete errands inside a deterministic simulation engine that keeps prices, inventory and outcomes grounded in application state.
+
+**Stack:** Next.js, Three.js, LiveKit Agents, AWS Amplify, DynamoDB
+
+**Links:** [Live](https://main.d33zh3b90nj4kw.amplifyapp.com/) · [Repo](https://github.com/fxhxdxd/sadak)
+
 </td>
 </tr>
 </table>
@@ -237,22 +248,27 @@ Chrome extension that supercharges LeetCode with AI-driven hints, code reviews a
 
 <table width="100%">
 <tr>
-<td align="center" width="270">
+<td align="center" width="20%">
 <h3>LeetCode</h3>
-<h2>Knight · 2013</h2>
-<p>contest rating badge</p>
+<h2>Knight</h2>
+<p>2014 current and max rating</p>
 </td>
-<td align="center" width="270">
+<td align="center" width="20%">
 <h3>Codeforces</h3>
-<h2>Specialist · 1453</h2>
-<p>contest rating badge</p>
+<h2>Specialist</h2>
+<p>1403 current · 1490 max</p>
 </td>
-<td align="center" width="270">
+<td align="center" width="20%">
+<h3>Problem Solving</h3>
+<h2>501</h2>
+<p>problems across platforms</p>
+</td>
+<td align="center" width="20%">
 <h3>Practers</h3>
 <h2>500+</h2>
 <p>users on the platform</p>
 </td>
-<td align="center" width="270">
+<td align="center" width="20%">
 <h3>Clinic CRM</h3>
 <h2>1300+</h2>
 <p>patients in production</p>
@@ -264,11 +280,14 @@ Chrome extension that supercharges LeetCode with AI-driven hints, code reviews a
 
 <table width="100%">
 <tr>
-<td align="center" width="50%">
-<a href="https://leetcode.com/u/mCjaZMHxiP/"><img src="https://img.shields.io/badge/LeetCode-Knight%202013-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile — Knight, rating 2013" /></a>
+<td align="center" width="33%">
+<a href="https://leetcode.com/u/mCjaZMHxiP/"><img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%202014-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" /></a>
 </td>
-<td align="center" width="50%">
-<a href="https://codeforces.com/profile/fxhxdxd"><img src="https://img.shields.io/badge/Codeforces-Specialist%201453-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile — Specialist, rating 1453" /></a>
+<td align="center" width="33%">
+<a href="https://codeforces.com/profile/fxhxdxd"><img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%201490%20max-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile" /></a>
+</td>
+<td align="center" width="33%">
+<a href="https://codolio.com/profile/fxhxdxd"><img src="https://img.shields.io/badge/Codolio-501%20Problems-6C5CE7?style=for-the-badge&logo=code&logoColor=white" alt="Codolio profile" /></a>
 </td>
 </tr>
 </table>
