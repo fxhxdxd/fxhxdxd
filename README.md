@@ -175,15 +175,28 @@ Data Structures and Algorithms, Operating Systems, Computer Networks, DBMS, Gene
 <tr>
 <td width="50%" valign="top">
 
-### [Legucid — Legal Document AI Platform](https://legucid.in)
+### [Practers](https://www.practers.com/)
 
-Full-stack legal document analysis system with automated risk detection, legal clause analysis and RAG-based contextual responses, cutting contract review time by 70 percent. Multi-agent system built on Google ADK with specialised agents for document intake, IPC research and legal-precedent retrieval, plus Google Cloud TTS with Gemini 2.5 Flash for audio explanations.
+AI mock-interview and hiring platform with an integrated coding IDE, SQL editor, system-design scratchpad, proctored assessments, AI tutor workflows, recruiter skill verification and resume tooling. Serving 500+ users.
 
-**Stack:** Google ADK, Gemini, RAG, Python
+**Stack:** Next.js, RAG, AI Agents, LLMs
 
-**Links:** [Live](https://legucid.in)
+**Links:** [Live](https://www.practers.com/)
 
 </td>
+<td width="50%" valign="top">
+
+### [Sadak — Voice-First Language Learning](https://main.d33zh3b90nj4kw.amplifyapp.com/)
+
+Immersive 3D Indian street where learners practise real conversations aloud across ten Indian languages. Players explore city-based scenarios, speak with AI characters and complete errands inside a deterministic simulation engine that keeps prices, inventory and outcomes grounded in application state.
+
+**Stack:** Next.js, Three.js, LiveKit Agents, AWS Amplify, DynamoDB
+
+**Links:** [Live](https://main.d33zh3b90nj4kw.amplifyapp.com/) · [Repo](https://github.com/fxhxdxd/sadak)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Physiotherapy Clinic CRM](https://crm.regophysioclinic.com)
@@ -193,6 +206,17 @@ Production-grade CRM running daily clinic operations for 1300+ patients, secured
 **Stack:** Next.js, Node.js, PostgreSQL, WhatsApp API
 
 **Links:** [Live](https://crm.regophysioclinic.com)
+
+</td>
+<td width="50%" valign="top">
+
+### [Legucid — Legal Document AI Platform](https://legucid.in)
+
+Full-stack legal document analysis system with automated risk detection, legal clause analysis and RAG-based contextual responses, cutting contract review time by 70 percent. Multi-agent system built on Google ADK with specialised agents for document intake, IPC research and legal-precedent retrieval, plus Google Cloud TTS with Gemini 2.5 Flash for audio explanations.
+
+**Stack:** Google ADK, Gemini, RAG, Python
+
+**Links:** [Live](https://legucid.in)
 
 </td>
 </tr>
@@ -208,19 +232,6 @@ Federated learning core of a peer-to-peer platform that splits training across t
 </td>
 <td width="50%" valign="top">
 
-### [Practers](https://www.practers.com/)
-
-AI mock-interview and hiring platform with an integrated coding IDE, SQL editor, system-design scratchpad, proctored assessments, AI tutor workflows, recruiter skill verification and resume tooling. Serving 500+ users.
-
-**Stack:** Next.js, RAG, AI Agents, LLMs
-
-**Links:** [Live](https://www.practers.com/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [DataStructor — LeetCode AI Companion](https://github.com/fxhxdxd/leetcode-extension)
 
 Chrome extension that supercharges LeetCode with AI-driven hints, code reviews and motivational feedback directly on the problem page. Context-aware chatbot powered by Gemini 2.5 Pro that greets you by username, extracts the top community solution as context, and persists chat history per problem with IndexedDB.
@@ -228,17 +239,6 @@ Chrome extension that supercharges LeetCode with AI-driven hints, code reviews a
 **Stack:** React, TypeScript, Tailwind CSS, Vite, Gemini 2.5 Pro, Chrome Extension APIs
 
 **Links:** [Repo](https://github.com/fxhxdxd/leetcode-extension)
-
-</td>
-<td width="50%" valign="top">
-
-### [Sadak — Voice-First Language Learning](https://main.d33zh3b90nj4kw.amplifyapp.com/)
-
-Immersive 3D Indian street where learners practise real conversations aloud across ten Indian languages. Players explore city-based scenarios, speak with AI characters and complete errands inside a deterministic simulation engine that keeps prices, inventory and outcomes grounded in application state.
-
-**Stack:** Next.js, Three.js, LiveKit Agents, AWS Amplify, DynamoDB
-
-**Links:** [Live](https://main.d33zh3b90nj4kw.amplifyapp.com/) · [Repo](https://github.com/fxhxdxd/sadak)
 
 </td>
 </tr>
