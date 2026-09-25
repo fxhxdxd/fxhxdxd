@@ -260,7 +260,7 @@ Chrome extension that supercharges LeetCode with AI-driven hints, code reviews a
 </td>
 <td align="center" width="20%">
 <h3>Problem Solving</h3>
-<h2>501</h2>
+<h2>500+</h2>
 <p>problems across platforms</p>
 </td>
 <td align="center" width="20%">
@@ -287,7 +287,7 @@ Chrome extension that supercharges LeetCode with AI-driven hints, code reviews a
 <a href="https://codeforces.com/profile/fxhxdxd"><img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%201490%20max-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile" /></a>
 </td>
 <td align="center" width="33%">
-<a href="https://codolio.com/profile/fxhxdxd"><img src="https://img.shields.io/badge/Codolio-501%20Problems-6C5CE7?style=for-the-badge&logo=code&logoColor=white" alt="Codolio profile" /></a>
+<a href="https://codolio.com/profile/fxhxdxd"><img src="https://img.shields.io/badge/Codolio-500%2B%20Problems-6C5CE7?style=for-the-badge&logo=code&logoColor=white" alt="Codolio profile" /></a>
 </td>
 </tr>
 </table>
